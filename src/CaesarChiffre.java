@@ -25,9 +25,10 @@ public class CaesarChiffre {
     }
 
     /**
-     * Diese Methode verschlüsselt den Text, indem sie jeden Buchstaben um den Schlüsselwert verschiebt.
+     * Diese Methode verschlüsselt den Text, indem sie jeden Buchstaben um den
+     * Schlüsselwert verschiebt.
      * 
-     * @param text der zu verschlüsselnde Text
+     * @param text       der zu verschlüsselnde Text
      * @param schluessel der Schlüsselwert
      * @return der verschlüsselte Text
      */
@@ -45,9 +46,10 @@ public class CaesarChiffre {
     }
 
     /**
-     * Diese Methode entschlüsselt den Text, indem sie den Schlüsselwert von 26 abzieht und dann die verschluesseln()-Methode aufruft.
+     * Diese Methode entschlüsselt den Text, indem sie den Schlüsselwert von 26
+     * abzieht und dann die verschluesseln()-Methode aufruft.
      * 
-     * @param text der zu entschlüsselnde Text
+     * @param text       der zu entschlüsselnde Text
      * @param schluessel der Schlüsselwert
      * @return der entschlüsselte Text
      */
