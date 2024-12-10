@@ -1,18 +1,13 @@
-## Getting Started
+# Testat 06
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Palindrom
 
-## Folder Structure
+Implementieren Sie eine Anwendung, die für eingelesene Wörter prüft, ob es sich um soge-nannte Palindrome handelt. Es sollen einzelne Wörter oder auch mehrere Wörter, getrennt durch Leerzeichen, eingelesen werden können. Für jedes eingegebene Wort wird das Ergebnis der Prüfung ausgegeben. (Hinweis: Die Groß- und Kleinschreibung der Wörter soll die Prüfung nicht beeinflussen.)
 
-The workspace contains two folders by default, where:
+## AsciiSumme
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Berechnen Sie ausgehend von einem String mit Ihrem Namen die Summe der ASCII-Codes der Buchstaben. Geben Sie jeden Buchstaben und den zugehörigen ASCII-Code aus.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## CaesarChiffre
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Entwickeln Sie eine Anwendung zur Verschlüsselung eines eingegebenen Textes mittels Cae-sar-Chiffre. Groß- und Kleinschreibung wird dabei nicht beachtet. Die Anwendung bietet so-wohl die Möglichkeit zur Verschlüsselung als auch zur Entschlüsselung.
